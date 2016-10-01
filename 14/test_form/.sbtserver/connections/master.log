@@ -1,0 +1,37 @@
+New log file opened at Sat Oct 01 20:58:10 KST 2016 by 3704@DESKTOP-TFCGAST
+Taking next connection to: 52573
+New client attempting to connect on port: 52574-52573
+  Address = /61.74.116.82:52573
+This client on port 52574 has uuid f86fe989-9ac9-496d-9447-d6bea4cb0218 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-f86fe989-9ac9-496d-9447-d6bea4cb0218
+Taking next connection to: 52573
+New client attempting to connect on port: 52575-52573
+  Address = /61.74.116.82:52573
+Handshake exception on socket: 52575
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Software caused connection abort: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 52573
+New client attempting to connect on port: 52576-52573
+  Address = /61.74.116.82:52573
+This client on port 52576 has uuid 16169318-a078-4dfd-adba-d2050b2e7d22 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-f86fe989-9ac9-496d-9447-d6bea4cb0218, activator-16169318-a078-4dfd-adba-d2050b2e7d22
+Taking next connection to: 52573
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 3704@DESKTOP-TFCGAST logs at Sat Oct 01 21:01:11 KST 2016, goodbye.
