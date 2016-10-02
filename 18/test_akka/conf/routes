@@ -1,0 +1,14 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+GET     /                               controllers.HomeController.index
+GET     /akka                           controllers.HomeController.akka
+GET     /comm                           controllers.HomeController.comm
+GET     /chat                           controllers.HomeController.chat
+GET     /commstart                      controllers.HomeController.commStart
+GET     /chatstart                      controllers.HomeController.chatStart
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)

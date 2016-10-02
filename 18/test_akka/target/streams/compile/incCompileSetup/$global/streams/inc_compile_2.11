@@ -1,0 +1,913 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+80 items
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\Alba$$anonfun$receive$2.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\Alba.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$akka$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$chat$1$$anonfun$apply$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$chat$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$chatStart$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$comm$1$$anonfun$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$comm$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$commStart$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$index$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$$anonfun$broadcast$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$$anonfun$props$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$$anonfun$receive$1.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Join$.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Join.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Leave$.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Leave.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Talk$.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Talk.class
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\javascript\ReverseAssets.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\javascript\ReverseHomeController.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\ReverseAssets.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\ReverseHomeController.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\routes$javascript.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\routes.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Assets_versioned6_invoker$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_akka1_invoker$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_chat3_invoker$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_chatStart5_invoker$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_comm2_invoker$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_commStart4_invoker$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_index0_invoker$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\RoutesPrefix$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\RoutesPrefix.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat_Scope0$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat_Scope0$chat$$anonfun$f$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat_Scope0$chat.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat_Scope0.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm_Scope0$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm_Scope0$comm$$anonfun$f$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm_Scope0$comm.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm_Scope0.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index_Scope0$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index_Scope0$index$$anonfun$f$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index_Scope0$index.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index_Scope0.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main_Scope0$.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main_Scope0$main.class
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main_Scope0.class
+binary dependencies:
+37 items
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-iteratees_2.11\jars\play-iteratees_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-streams_2.11\jars\play-streams_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\kohry\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+18 items
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+80 items
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.Alba
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.Alba$$anonfun$receive$2
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$$anonfun$akka$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$$anonfun$chat$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$$anonfun$chat$1$$anonfun$apply$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$$anonfun$chatStart$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$$anonfun$comm$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$$anonfun$comm$1$$anonfun$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$$anonfun$commStart$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$$anonfun$index$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$ChatActor
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$ChatActor$
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$ChatActor$$anonfun$broadcast$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$ChatActor$$anonfun$props$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$ChatActor$$anonfun$receive$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$ChatActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$Join
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$Join$
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$Leave
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$Leave$
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$Talk
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers.HomeController$Talk$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseHomeController
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseAssets
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseHomeController
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> controllers.routes
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> controllers.routes$javascript
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$documentation$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Assets_versioned6_invoker$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_HomeController_akka1_invoker$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_HomeController_chat3_invoker$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_HomeController_chatStart5_invoker$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_HomeController_comm2_invoker$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_HomeController_commStart4_invoker$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_HomeController_index0_invoker$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$5
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$6
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$7
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$$anonfun$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> views.html.chat
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> views.html.chat$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> views.html.chat_Scope0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> views.html.chat_Scope0$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> views.html.chat_Scope0$chat
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> views.html.chat_Scope0$chat$$anonfun$f$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> views.html.comm
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> views.html.comm$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> views.html.comm_Scope0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> views.html.comm_Scope0$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> views.html.comm_Scope0$comm
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> views.html.comm_Scope0$comm$$anonfun$f$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$index
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$index$$anonfun$f$1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1
+used names:
+480 items
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> !
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> !=
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> &&
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> +
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ::
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ==
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> A1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> AbstractFunction1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> AbstractFunction2
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Action
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Actor
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ActorFlow
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ActorRef
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ActorRefFactory
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ActorSystem
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Alba
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> AnyRef
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> B1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ChatActor
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ClassTag
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Codec
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ContentTypeOf
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Controller
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Enumerator
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Execution
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Format
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Function1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> HomeController
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Implicits
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Iteratee
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Join
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> JsValue
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Json
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Leave
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Materializer
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> MessageFlowTransformer
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Nil
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> None
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Ok
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> PoisonPill
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Predef
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Product
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Props
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Reads
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ScalaRunTime
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Serializable
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> String
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> StringReads
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Talk
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Thread
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> WebSocket
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> Writeable
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> \
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> _1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> _2
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> _hashCode
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> _toString
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> accept
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> actor
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> actorOf
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> actorRef
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> actorRef2Scala
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> actorSystem
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> akka
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> alba1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> alba2
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> andThen
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> api
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> apply
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> as
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> asInstanceOf
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> broadcast
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> chat
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> comm
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> concurrent
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> contentTypeOf_Html
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> controllers
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> defaultContext
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> eof
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> eq
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> filter
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> foreach
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> html
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> http
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> immutable
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> in
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> index
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> inject
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> isInstanceOf
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> iteratee
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> java
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> javax
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> jsValueToJsLookup
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> json
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> lang
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> libs
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> materializeClassTag
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> materializer
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> message
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> msg
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> msgFromClient
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> mvc
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> out
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> package
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> parse
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> play
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> println
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> props
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> qual$1
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> qual$2
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> request
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> runtime
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> self
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> sleep
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> stream
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> streams
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> stringMessageFlowTransformer
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> system
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> toString
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> typedProductIterator
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> u
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> unchecked
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> username
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> users
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> users_=
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> using
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> utf_8
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> views
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> writeableOf_Content
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> x$2
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> x$3
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> x$4
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> x$5
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> ||
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> +
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <byname>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> AnyRef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Asset
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Assets
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Call
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> HandlerDef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavascriptLiteral
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> PathBindable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Predef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> QueryStringBindable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseAssets
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseHomeController
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseRouteContext
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> String
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _defaultPrefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _prefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _root_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> api
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> assetPathBindable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> core
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> dynamicString
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> empty
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> endsWith
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> implicitly
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascript
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascriptUnbind
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> mvc
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> play
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> queryString
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> routing
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> +
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <byname>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> AnyRef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Asset
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Assets
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Call
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> HandlerDef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> JavascriptLiteral
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Map
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> PathBindable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Predef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> QueryStringBindable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseAssets
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseHomeController
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseRouteContext
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> String
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _defaultPrefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _prefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _root_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _rrc
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> api
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> apply
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> assetPathBindable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> core
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> dynamicString
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> empty
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> endsWith
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> file
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> implicitly
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> mvc
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> play
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> queryString
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> routing
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> unbind
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> +
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> ++
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> :+
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> A1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Any
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Asset
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Assets
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Assets_1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> B1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Function1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> GeneratedRouter
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Handler
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> HandlerInvokerFactory
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> HomeController
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> HomeController_0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> HttpErrorHandler
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> List
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Nil
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> None
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> PartialFunction
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Predef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> RequestHeader
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> ReverseRouteContext
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Right
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Route
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Routes
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> RoutesPrefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Seq
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> String
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> Tuple3
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> akka
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> api
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> apply
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> asInstanceOf
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> assetPathBindable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> call
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> canBuildFrom
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> chat
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> chatStart
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> collection
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> comm
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> commStart
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Assets_versioned6_invoker
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Assets_versioned6_route
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_akka1_invoker
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_akka1_route
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_chat3_invoker
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_chat3_route
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_chatStart5_invoker
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_chatStart5_route
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_comm2_invoker
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_comm2_route
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_commStart4_invoker
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_commStart4_route
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_index0_invoker
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> controllers_HomeController_index0_route
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> core
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> createInvoker
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> defaultPrefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> e
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> empty
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> endsWith
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> errorHandler
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> fakeValue
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> file
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> foldLeft
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> fromPath
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> get
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> getClass
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> getClassLoader
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> http
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> immutable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> index
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> isEmpty
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> isInstanceOf
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> j
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> mvc
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> package
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> params
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> passThrough
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> path
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> play
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> prefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> router
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> routing
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> s
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> setPrefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> unapply
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> unary_!
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> unchecked
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> versioned
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> AnyRef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Function0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Predef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> RoutesPrefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> String
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Unit
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix_=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> byNamePrefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> p
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> prefix
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> Any
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> AnyRef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> Appendable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> BaseScalaTemplate
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> Format
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> Function1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> HomeController
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> HtmlFormat
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> ManifestFactory
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> PlayMagic
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> RequestHeader
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> Seq
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> Template1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> TemplateMagic
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> _display_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> _root_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> api
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> apply
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> chat
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> chat_Scope0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> classType
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> collection
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> controllers
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> data
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> format
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> html
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> i18n
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> main
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> models
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> mvc
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> play
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> raw
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> reflect
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> request
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> routes
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> templates
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> twirl
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> views
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> webSocketURL
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> Any
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> AnyRef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> Appendable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> BaseScalaTemplate
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> Format
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> Function1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> HomeController
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> HtmlFormat
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> ManifestFactory
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> PlayMagic
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> RequestHeader
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> Seq
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> Template1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> TemplateMagic
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> _display_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> _root_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> api
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> apply
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> classType
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> collection
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> comm
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> comm_Scope0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> controllers
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> data
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> format
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> html
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> i18n
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> main
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> models
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> mvc
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> play
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> raw
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> reflect
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> request
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> routes
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> templates
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> twirl
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> views
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> webSocketURL
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> Any
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> AnyRef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> Appendable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> BaseScalaTemplate
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> Format
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> Function1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> HtmlFormat
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> ManifestFactory
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> PlayMagic
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> Predef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> Seq
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> String
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> Template1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> TemplateMagic
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> _display_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> _root_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> api
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> apply
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> classType
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> collection
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> controllers
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> data
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> format
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> html
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> i18n
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> index
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> index_Scope0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> main
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> message
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> models
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> mvc
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> play
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> raw
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> reflect
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> templates
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> twirl
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> views
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> <init>
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Any
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> AnyRef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Appendable
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Asset
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Assets
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> BaseScalaTemplate
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Format
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Function1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> HtmlFormat
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> ManifestFactory
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> PlayMagic
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Predef
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Seq
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> String
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> Template1
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> TemplateMagic
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> _display_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> _root_
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> api
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> apply
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> classType
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> collection
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> controllers
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> data
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> format
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> html
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> i18n
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> main
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> main_Scope0
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> models
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> mvc
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> play
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> raw
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> reflect
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> routes
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> scala
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> string2Asset
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> templates
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> title
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> twirl
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> versioned
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> views
+product stamps:
+80 items
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\Alba$$anonfun$receive$2.class -> lastModified(1475369795765)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\Alba.class -> lastModified(1475369795758)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$akka$1.class -> lastModified(1475369795842)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$chat$1$$anonfun$apply$1.class -> lastModified(1475369795847)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$chat$1.class -> lastModified(1475369795845)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$chatStart$1.class -> lastModified(1475369795849)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$comm$1$$anonfun$1.class -> lastModified(1475369795853)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$comm$1.class -> lastModified(1475369795851)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$commStart$1.class -> lastModified(1475369795855)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$$anonfun$index$1.class -> lastModified(1475369795857)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$$anonfun$broadcast$1.class -> lastModified(1475369795865)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$$anonfun$props$1.class -> lastModified(1475369795867)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1475369795874)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$$anonfun$receive$1.class -> lastModified(1475369795871)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor$.class -> lastModified(1475369795860)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$ChatActor.class -> lastModified(1475369795863)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Join$.class -> lastModified(1475369795880)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Join.class -> lastModified(1475369795877)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Leave$.class -> lastModified(1475369795883)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Leave.class -> lastModified(1475369795885)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Talk$.class -> lastModified(1475369795891)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController$Talk.class -> lastModified(1475369795888)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\HomeController.class -> lastModified(1475369795839)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\javascript\ReverseAssets.class -> lastModified(1475369825021)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\javascript\ReverseHomeController.class -> lastModified(1475369825023)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\ReverseAssets.class -> lastModified(1475369825012)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\ReverseHomeController.class -> lastModified(1475369825019)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\routes$javascript.class -> lastModified(1475369825318)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\controllers\routes.class -> lastModified(1475369825320)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class -> lastModified(1475369825035)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Assets_versioned6_invoker$1.class -> lastModified(1475369825037)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_akka1_invoker$1.class -> lastModified(1475369825041)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_chat3_invoker$1.class -> lastModified(1475369825043)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_chatStart5_invoker$1.class -> lastModified(1475369825051)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_comm2_invoker$1.class -> lastModified(1475369825056)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_commStart4_invoker$1.class -> lastModified(1475369825058)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_HomeController_index0_invoker$1.class -> lastModified(1475369825063)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1475369825072)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1475369825070)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1475369825077)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1475369825075)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1475369825081)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1475369825079)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class -> lastModified(1475369825108)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class -> lastModified(1475369825088)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class -> lastModified(1475369825119)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class -> lastModified(1475369825116)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class -> lastModified(1475369825122)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class -> lastModified(1475369825120)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class -> lastModified(1475369825125)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class -> lastModified(1475369825124)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class -> lastModified(1475369825068)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\Routes.class -> lastModified(1475369825033)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class -> lastModified(1475369825131)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\RoutesPrefix$.class -> lastModified(1475369825129)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\router\RoutesPrefix.class -> lastModified(1475369825127)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat$.class -> lastModified(1475369795970)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat.class -> lastModified(1475369795968)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat_Scope0$.class -> lastModified(1475369795972)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat_Scope0$chat$$anonfun$f$1.class -> lastModified(1475369795977)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat_Scope0$chat.class -> lastModified(1475369795975)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\chat_Scope0.class -> lastModified(1475369795971)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm$.class -> lastModified(1475369795984)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm.class -> lastModified(1475369795981)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm_Scope0$.class -> lastModified(1475369796004)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm_Scope0$comm$$anonfun$f$1.class -> lastModified(1475369796012)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm_Scope0$comm.class -> lastModified(1475369796010)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\comm_Scope0.class -> lastModified(1475369795999)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index$.class -> lastModified(1475369796019)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index.class -> lastModified(1475369796015)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index_Scope0$.class -> lastModified(1475369796023)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index_Scope0$index$$anonfun$f$1.class -> lastModified(1475369796029)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index_Scope0$index.class -> lastModified(1475369796027)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\index_Scope0.class -> lastModified(1475369796021)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main$.class -> lastModified(1475369796033)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main.class -> lastModified(1475369796031)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main_Scope0$.class -> lastModified(1475369796037)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1.class -> lastModified(1475369796043)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main_Scope0$main.class -> lastModified(1475369796040)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\classes\views\html\main_Scope0.class -> lastModified(1475369796035)
+source stamps:
+10 items
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> hash(0ffbfc0caa7d0a37376c602df448e7c24df03a31)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> hash(c51e9e0bdee5bc9dfe565fd019cfd7b72cc96070)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> hash(fa744b1fc9db112ad927a9e5188428879562a5a9)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> hash(d1896b2e0a612f6735054fa2c8dbb0fbb83593b7)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> hash(9662725a13b61b024d4966f1ddf1f63419e3bb10)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> hash(cb9aa8c43507935cfa6727a8551f45b808299620)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> hash(5969b2bcafef78de59a6543708cb9eddbd54148b)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> hash(6284364a306f7699c32c0108ed47bf7a2f46dc47)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> hash(72e8736cb8e37e0a54b1624af864fd14daf4bc04)
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> hash(b715ebcd92796e1ac39b0d9d58a9fec3b88a3908)
+binary stamps:
+9 items
+C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar -> lastModified(1473562165866)
+C:\Users\kohry\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.4.jar -> lastModified(1460527087000)
+C:\Users\kohry\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.4.jar -> lastModified(1460527179000)
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-iteratees_2.11\jars\play-iteratees_2.11-2.5.4.jar -> lastModified(1465528824000)
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.5.4.jar -> lastModified(1465528890000)
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-streams_2.11\jars\play-streams_2.11-2.5.4.jar -> lastModified(1465528900000)
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar -> lastModified(1465528919000)
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar -> lastModified(1431579649000)
+C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+9 items
+C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar -> java.lang.Object
+C:\Users\kohry\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.4.jar -> akka.actor.Actor
+C:\Users\kohry\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.4.jar -> akka.stream.Materializer
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-iteratees_2.11\jars\play-iteratees_2.11-2.5.4.jar -> play.api.libs.iteratee.Iteratee$
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.5.4.jar -> play.api.libs.json.DefaultReads
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\play-streams_2.11\jars\play-streams_2.11-2.5.4.jar -> play.api.libs.streams.ActorFlow$
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.4.jar -> play.core.routing.GeneratedRouter
+C:\Users\kohry\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar -> play.twirl.api.Template1
+C:\Users\kohry\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Predef$
+internal apis:
+10 items
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHByXffaAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAFc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwIEHOznQAB2NvbnRleHRzcQB+AAvuKYcadAAPcmVxdWVzdDJzZXNzaW9uc3EAfgALr6DbOHQABHNlbGZzcQB+AAuKp3aEdAAMcmVxdWVzdDJsYW5nc3EAfgALS+iOo3QADXJlcXVlc3QyZmxhc2h1cQB+AAkAAAE2c3EAfgALJ2AUkXQABFRhbGtzcQB+AAtm1HZsdAAMUmVzZXRDb250ZW50c3EAfgAL1iTh4XQADU5vdEFjY2VwdGFibGVzcQB+AAuFQUtAdAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAtI76VYdAAIc2VuZEZpbGVzcQB+AAtKyNs3dAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALvXXCv3QABkxvY2tlZHNxAH4AC+wqXnN0AAZub3RpZnlzcQB+AAtg1BIrdAAERlJPTXNxAH4AC0XxmS10ABBDT05URU5UX0xBTkdVQUdFc3EAfgAL52y4anQAB0NSRUFURURzcQB+AAugpAYvdAAHdW5hcHBseXNxAH4AC5eKC/B0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgAL+V8J+3QABGNvbW1zcQB+AAu6xPFHdAAHY3VycmllZHNxAH4AC9BuXWV0AAdSZWNlaXZlc3EAfgALjQbFlnQAB1dBUk5JTkdzcQB+AAtT71ypdAAPUGF5bWVudFJlcXVpcmVkc3EAfgAL82rYPXQACENPTlRJTlVFc3EAfgAL6J2DHnQABGJvZHlzcQB+AAsqYHYwdAAOZm9ybSRkZWZhdWx0JDJzcQB+AAuppvVVdAALU0VUX0NPT0tJRTJzcQB+AAuCHABsdAAISFRUUF8xXzFzcQB+AAvo48OjdAATQ09OVEVOVF9ESVNQT1NJVElPTnNxAH4ACyQKyMR0AA1yYXckZGVmYXVsdCQxc3EAfgALL33uf3QADENPTlRFTlRfVFlQRXNxAH4AC03ILl50AAZCSU5BUllzcQB+AAvq3nYtdAAEd2FpdHNxAH4AC7wnhFJ0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19NRVRIT0RTc3EAfgALKgxC/HQACkJhZEdhdGV3YXlzcQB+AAsL2PXmdAAQTWV0aG9kTm90QWxsb3dlZHNxAH4AC8ha7610AA5Ub29NYW55UmVxdWVzdHNxAH4AC45RZxd0AApVU0VSX0FHRU5Uc3EAfgALsvsXKnQAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDJzcQB+AAvEhwsedAAESE9TVHNxAH4AC6Eba5Z0AAtDT05URU5UX01ENXNxAH4AC4HNLHF0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC7smTP50AAdDcmVhdGVkc3EAfgALitrs7nQADSRhc0luc3RhbmNlT2ZzcQB+AAuTDgrwdAAFZW1wdHlzcQB+AAsV8uDXdAAQWF9GT1JXQVJERURfUE9SVHNxAH4AC99qoYR0AApKYXZhU2NyaXB0c3EAfgALuwwCeHQAC0JBRF9SRVFVRVNUc3EAfgALgeT8N3QABXVzaW5nc3EAfgALH1VkenQADk5vdEltcGxlbWVudGVkc3EAfgALHjFddXQADE1BWF9GT1JXQVJEU3NxAH4AC4/Zf+p0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgALSPEuDHQAB2NvbXBvc2VzcQB+AAvIcDmYdAADQ1NTc3EAfgALRUIZ6HQADHRvbGVyYW50SnNvbnNxAH4AC+aFsKd0AAhTZWVPdGhlcnNxAH4AC4/oYWF0AAdUUkFJTEVSc3EAfgALzgI4bnQAElBST1hZX0FVVEhFTlRJQ0FURXNxAH4AC3q9h310AA1BVVRIT1JJWkFUSU9Oc3EAfgALt+5usHQAA1hNTHNxAH4ACxFz1ml0AAphbnlDb250ZW50c3EAfgALk22tl3QADUNBQ0hFX0NPTlRST0xzcQB+AAuCdpcUdAAbTm9uQXV0aG9yaXRhdGl2ZUluZm9ybWF0aW9uc3EAfgALewMcpnQAD05PVF9JTVBMRU1FTlRFRHNxAH4AC4miUVt0AAxwcm9kdWN0QXJpdHlzcQB+AAvPNx9zdAAJY29tbVN0YXJ0c3EAfgALBUQlZ3QABmVxdWFsc3NxAH4AC/B5NZJ0ABBQQVlNRU5UX1JFUVVJUkVEc3EAfgALq6OIWHQACHVzZXJuYW1lc3EAfgALlIGkTnQABGpzb25zcQB+AAv+qYs8dAAIQWNjZXB0ZWRzcQB+AAu+a3QSdAALUkVUUllfQUZURVJzcQB+AAvzgRL1dAASUmVkaXJlY3QkZGVmYXVsdCQyc3EAfgALJN7AXXQADnVybEZvcm1FbmNvZGVkc3EAfgALYP+Lh3QABEpTT05zcQB+AAsbied3dAAIUmVkaXJlY3RzcQB+AAvpyRXGdAATUFJFQ09ORElUSU9OX0ZBSUxFRHNxAH4AC66MWyZ0AA5QYXJ0aWFsQ29udGVudHNxAH4AC18iVS90ABRVbnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4AC2Q8upR0AAhDT05GTElDVHNxAH4AC1I4AQN0ABJzZW5kRmlsZSRkZWZhdWx0JDJzcQB+AAt9QntIdAAOQUNDRVBUX0NIQVJTRVRzcQB+AAuWfI7jdAARUGVybWFuZW50UmVkaXJlY3RzcQB+AAvZLPtcdAARRXhwZWN0YXRpb25GYWlsZWRzcQB+AAumhc7ydAADVklBc3EAfgALRWrH8nQADGFzSW5zdGFuY2VPZnNxAH4ACxIGUw10AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAsd0bbLdAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4ACxig9x50AAV1c2Vyc3NxAH4AC69lWXl0AARha2thc3EAfgALf4XlR3QAEU1PVkVEX1BFUk1BTkVOVExZc3EAfgAL6ttOPXQAAlRFc3EAfgALAndd9HQADkdhdGV3YXlUaW1lb3V0c3EAfgALsESf7XQAEENPTlRFTlRfTE9DQVRJT05zcQB+AAslz+7/dAAPUEFSVElBTF9DT05URU5Uc3EAfgALMUXGLXQAE3JlbW92aW5nRnJvbVNlc3Npb25zcQB+AAv85Nu+dAAUSU5TVUZGSUNJRU5UX1NUT1JBR0VzcQB+AAtyy4+OdAARbXVsdGlwYXJ0Rm9ybURhdGFzcQB+AAs91WWvdAAMRVZFTlRfU1RSRUFNc3EAfgALo9cRdXQADHN5bmNocm9uaXplZHNxAH4AC5uW8NF0ABBGYWlsZWREZXBlbmRlbmN5c3EAfgALbLzhAnQABEVUQUdzcQB+AAtPGwENdAAPTEVOR1RIX1JFUVVJUkVEc3EAfgALAzp6dnQADndpdGhOZXdTZXNzaW9uc3EAfgALsKg9GHQACkpBVkFTQ1JJUFRzcQB+AAu0dbzMdAAORW50aXR5VG9vTGFyZ2VzcQB+AAt2V1SWdAAMVU5BVVRIT1JJWkVEc3EAfgALVvRR5nQAEnNlbmRQYXRoJGRlZmF1bHQkMnNxAH4ACwcRdbF0ABZVTlNVUFBPUlRFRF9NRURJQV9UWVBFc3EAfgALoSpyaHQADSRpc0luc3RhbmNlT2ZzcQB+AAsaWjYFdAAHUkVGRVJFUnNxAH4AC1sAjNx0AAdhbmRUaGVuc3EAfgALoJJfkHQAB3JlY2VpdmVzcQB+AAv4RWZIdAAYUkVRVUVTVF9FTlRJVFlfVE9PX0xBUkdFc3EAfgAL3b7yi3QABk9SSUdJTnNxAH4ACzk+7fV0AApwcmVSZXN0YXJ0c3EAfgALbAa3ZHQAC3dpdGhDb29raWVzc3EAfgALpsRBhHQAD0FDQ0VQVF9MQU5HVUFHRXNxAH4ACws6vbZ0AAxOT1RfTU9ESUZJRURzcQB+AAv6hSIndAACYXNzcQB+AAsf6/spdAAGdHVwbGVkc3EAfgALxTw9JHQAC3dpdGhTZXNzaW9uc3EAfgALVdVjt3QAGkhUVFBfVkVSU0lPTl9OT1RfU1VQUE9SVEVEc3EAfgALh/Fdi3QAG0FDQ0VTU19DT05UUk9MX0FMTE9XX09SSUdJTnNxAH4AC1XcuqR0AA1hcm91bmRSZWNlaXZlc3EAfgALu/1Z+HQAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4AC0gTSsJ0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgAL03pSU3QADXJhdyRkZWZhdWx0JDJzcQB+AAtslIaadAAEdGV4dHNxAH4ACy7S3F10AAhjYW5FcXVhbHNxAH4ACwfGPo50AAhOb3RGb3VuZHNxAH4AC1Zz9q10AAhJRl9SQU5HRXNxAH4AC17VBZV0ABJzZW5kRmlsZSRkZWZhdWx0JDRzcQB+AAsPmeokdAALcG9zdFJlc3RhcnRzcQB+AAsY/JQudAAbbXVsdGlwYXJ0Rm9ybURhdGEkZGVmYXVsdCQyc3EAfgALIlNf1XQACGZsYXNoaW5nc3EAfgALj4DwS3QABEZPUk1zcQB+AAtO8wcgdAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4AC+HW0R10ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgALsPf/L3QACHBvc3RTdG9wc3EAfgALx4J3HHQAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4AC8bDUUp0AA1wcm9kdWN0UHJlZml4c3EAfgALkheP/3QADkNPTlRFTlRfTEVOR1RIc3EAfgALeFJYLXQADXRlbXBvcmFyeUZpbGVzcQB+AAsF/c6OdAAKU0VUX0NPT0tJRXNxAH4AC6D+1YV0AAlub3RpZnlBbGxzcQB+AAvD1PltdAADQUdFc3EAfgAL9gajgXQAFERlZmF1bHRNYXhUZXh0TGVuZ3Roc3EAfgALqUBDWnQAC0JBRF9HQVRFV0FZc3EAfgALpiSNZ3QAEkVYUEVDVEFUSU9OX0ZBSUxFRHNxAH4ACzEdk7R0AApDT05ORUNUSU9Oc3EAfgALiqTorXQACUZPUldBUkRFRHNxAH4AC7ARqKR0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC+NFzFZ0AAJPa3NxAH4ACxulOcB0AAxpc0luc3RhbmNlT2ZzcQB+AAsgiD95dAAQTW92ZWRQZXJtYW5lbnRseXNxAH4AC0OLsl90ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALh1cxjnQAAk9Lc3EAfgAL/cCJ4HQADmFyb3VuZFBvc3RTdG9wc3EAfgALDHthQnQABmFzSmF2YXNxAH4ACyUCoyJ0AARjaGF0c3EAfgALQ8ABgnQAEWRpc2NhcmRpbmdDb29raWVzc3EAfgAL3SuNDnQAFUFwcGxpY2F0aW9uWG1sTWF0Y2hlcnNxAH4ACzTn00l0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19IRUFERVJTc3EAfgALe5ggrHQADkNBQ0hFX01BTklGRVNUc3EAfgALnDhcvHQACUZvcmJpZGRlbnNxAH4AC+d0rYt0ABdIdHRwVmVyc2lvbk5vdFN1cHBvcnRlZHNxAH4AC3al60h0AARURVhUc3EAfgALuumDnHQACkJhZFJlcXVlc3RzcQB+AAuaWTuSdAAFRk9VTkRzcQB+AAs/tWuPdAAGPGluaXQ+c3EAfgAL0y0EXHQAC05vdE1vZGlmaWVkc3EAfgALyh0AenQABERBVEVzcQB+AAum3VLddAAFYXN5bmNzcQB+AAtZkwFTdAANQ09OVEVOVF9SQU5HRXNxAH4ACyXEcZd0AAVMZWF2ZXNxAH4AC3sK2Ep0AAlVTkxJTUlURURzcQB+AAucyOjEdAAIcHJlU3RhcnRzcQB+AAscL7lAdAAEJGFtcHNxAH4AC7zD6550AAxzZW5kUmVzb3VyY2VzcQB+AAu2PP0idAAMdG9sZXJhbnRUZXh0c3EAfgALYi4ciHQAB2NodW5rZWRzcQB+AAvLghwRdAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAu4GqKidAAJdW5oYW5kbGVkc3EAfgALP+2f2HQAElBFUk1BTkVOVF9SRURJUkVDVHNxAH4AC+AXoMB0AAVhcHBseXNxAH4ACzsYrCh0AANyYXdzcQB+AAvfRRfBdAAFZXJyb3JzcQB+AAv0J2OtdAAJYnJvYWRjYXN0c3EAfgALnJdgJ3QADkhvbWVDb250cm9sbGVyc3EAfgALc2fuC3QAA3htbHNxAH4AC14twC90ABFUT09fTUFOWV9SRVFVRVNUU3NxAH4AC4s460x0AAVwYXJzZXNxAH4AC92ILCp0ABNQUk9YWV9BVVRIT1JJWkFUSU9Oc3EAfgALXJG2MHQAAj09c3EAfgAL5Lh/IHQABEdPTkVzcQB+AAtR2RuBdAAJY2hhdFN0YXJ0c3EAfgALoN8gUHQABEdvbmVzcQB+AAuD3y2WdAAgQUNDRVNTX0NPTlRST0xfQUxMT1dfQ1JFREVOVElBTFNzcQB+AAswQNS2dAAOTk9UX0FDQ0VQVEFCTEVzcQB+AAv+inDpdAAFY2xvbmVzcQB+AAtKrV60dAAGRVhQRUNUc3EAfgALa5+S4XQAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDNzcQB+AAtk1KQ/dAAHZGVmYXVsdHNxAH4ACzzQGRp0ABJTZXJ2aWNlVW5hdmFpbGFibGVzcQB+AAvQYxh/dAAITE9DQVRJT05zcQB+AAte64UkdAASc2VuZFBhdGgkZGVmYXVsdCQ0c3EAfgALwLaxB3QABEFsYmFzcQB+AAuhAC0HdAAEVkFSWXNxAH4AC0P2W2Z0ABBXV1dfQVVUSEVOVElDQVRFc3EAfgALsPflB3QABGZlZWRzcQB+AAvmIDiEdAAEVE9ET3NxAH4AC6gv2I10AA9YX0ZPUldBUkRFRF9GT1JzcQB+AAs1WrsadAAOZm9ybSRkZWZhdWx0JDNzcQB+AAvOUCE8dAAGJGluaXQkc3EAfgALsW4WHXQAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC1fvsmh0AAhBQ0NFUFRFRHNxAH4AC1A3fYt0AARIdG1sc3EAfgALxOIBY3QACk5PX0NPTlRFTlRzcQB+AAv8xYA6dAAISFRUUF8xXzBzcQB+AAsFZt7XdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgALWh+xpnQAB1VQR1JBREVzcQB+AAtY4xS5dAAWdG9sZXJhbnRGb3JtVXJsRW5jb2RlZHNxAH4ACxJpIPR0AAlOT1RfRk9VTkRzcQB+AAsBq0xFdAAHc2Vzc2lvbnNxAH4AC/vN1Kd0AA9BQ0NFUFRfRU5DT0RJTkdzcQB+AAsPeWJkdAATSW50ZXJuYWxTZXJ2ZXJFcnJvcnNxAH4AC/NpyyB0AAdFWFBJUkVTc3EAfgALM1O+THQABGNvcHlzcQB+AAvr7quDdAAfUkVRVUVTVEVEX1JBTkdFX05PVF9TQVRJU0ZJQUJMRXNxAH4AC7Gwp3J0AAZoZWFkZXJzcQB+AAuYIBf0dAAQVVBHUkFERV9SRVFVSVJFRHNxAH4AC5Ic6Lx0ABREZWZhdWx0TWF4RGlza0xlbmd0aHNxAH4ACxN/VpJ0AAZzZW5kZXJzcQB+AAvBJPTNdAAHbWVzc2FnZXNxAH4ACwqw0h10AA9Ub29NYW55UmVxdWVzdHNzcQB+AAviNM2GdAAIdG9TdHJpbmdzcQB+AAsQjj9kdAAMVW5hdXRob3JpemVkc3EAfgALg+elz3QABGZpbGVzcQB+AAsndjg6dAAESm9pbnNxAH4ACxhp8cp0AA5SZXF1ZXN0VGltZW91dHNxAH4AC7lmqT90AAZBQ0NFUFRzcQB+AAvWXQBAdAAKVXJpVG9vTG9uZ3NxAH4AC8ZPcVl0AA9HQVRFV0FZX1RJTUVPVVRzcQB+AAv55cKGdAALTXVsdGlTdGF0dXNzcQB+AAtHo5+WdAAGU0VSVkVSc3EAfgALbhxaCHQAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgALCJbbCnQAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgAL+3azsHQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAsqyo9hdAAIc2VuZFBhdGhzcQB+AAuvrA/xdAAKc2VuZEVudGl0eXNxAH4AC/hnC/J0AAIhPXNxAH4AC5qexhB0AAlDaGF0QWN0b3JzcQB+AAvEU33gdAANTEFTVF9NT0RJRklFRHNxAH4AC49p4Kh0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4ACw6PFtx0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAvq5vQZdAALd2l0aENoYXJzZXRzcQB+AAvw8CRCdAAIQ29uZmxpY3RzcQB+AAu1QhBldAAFQUxMT1dzcQB+AAtj+hJ8dAAGQ09PS0lFc3EAfgALQLZz4nQAEUlGX01PRElGSUVEX1NJTkNFc3EAfgALjuFKJnQACGdldENsYXNzc3EAfgALuEFbvXQAA1htbHNxAH4AC5g0qDV0ABBlbmZvcmNlTWF4TGVuZ3Roc3EAfgALOafHFHQAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAs1SpildAAOY29weSRkZWZhdWx0JDFzcQB+AAvMnKskdAAESFRNTHNxAH4ACwJa90Z0AAVGb3VuZHNxAH4ACyg1VnF0AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4AC3S8zXd0AARmb3Jtc3EAfgAL4sAOB3QABXByb3Bzc3EAfgAL2ZbvN3QABnJlbmRlcnNxAH4AC1f5fSt0AAZQUkFHTUFzcQB+AAsCKvHudAAISUZfTUFUQ0hzcQB+AAvi9ovodAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAsIl10rdAANUkVTRVRfQ09OVEVOVHNxAH4ACzlA+lt0AAlTRUVfT1RIRVJzcQB+AAv8+gK2dAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAuQhmzydAACbmVzcQB+AAsnNEBhdAAQQ09OVEVOVF9FTkNPRElOR3NxAH4AC5syDcx0ABNJbnN1ZmZpY2llbnRTdG9yYWdlc3EAfgALSamuVXQABVJBTkdFc3EAfgALkFSXDHQAD3dpdGhEYXRlSGVhZGVyc3NxAH4AC92/+et0AAlVU0VfUFJPWFlzcQB+AAtPYQDJdAAHQWNjZXB0c3NxAH4AC3OtsqV0AAdDSFVOS0VEc3EAfgALAG8JGXQAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgALbFB4QnQAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4AC1uIhf50AAZMT0NLRURzcQB+AAsTLQncdAAEd2hlbnNxAH4AC79CIQF0ABJzZW5kUGF0aCRkZWZhdWx0JDNzcQB+AAvK92aEdAAGaWdub3Jlc3EAfgALyUWytHQABEpzb25zcQB+AAspUNatdAAJbWF4TGVuZ3Roc3EAfgALkzzn2nQACUZPUkJJRERFTnNxAH4AC6UuHo90ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuU2aZldAASTUVUSE9EX05PVF9BTExPV0VEc3EAfgALzSGHdXQAAmVxc3EAfgAL0Sv6M3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC+pVxQ10AA1JRl9OT05FX01BVENIc3EAfgAL8sjCYXQADUFDQ0VQVF9SQU5HRVNzcQB+AAu9EhtRdAAJTm9Db250ZW50c3EAfgALUM+gRHQAEFhfUkVRVUVTVEVEX1dJVEhzcQB+AAtYErQsdAARWF9GT1JXQVJERURfUFJPVE9zcQB+AAszUCD1dAALdG9sZXJhbnRYbWxzcQB+AAtjNIBNdAAMTVVMVElfU1RBVFVTc3EAfgALS7iWUnQAAiMjc3EAfgALz368HnQACGZpbmFsaXplc3EAfgALzitQtHQAE1NFUlZJQ0VfVU5BVkFJTEFCTEVzcQB+AAsfWpaVdAAFaW5kZXhzcQB+AAus3ai6dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvJNTWydAAIaGFzaENvZGVzcQB+AAvARaFXdAAGU3RhdHVzc3EAfgALYWEtG3QADmFyb3VuZFByZVN0YXJ0c3EAfgALMUpkpXQAC3dpdGhIZWFkZXJzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4CjXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2V0ABBMeHNidGkvYXBpL1R5cGU7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAAigpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQACVNpbmdsZXRvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4CpnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFamF2YXhzcQB+ArJ0AAZpbmplY3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Cs3NyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGmNvbnRyb2xsZXJzLkhvbWVDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAATamF2YXguaW5qZWN0LkluamVjdHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN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
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBvgZdrAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBMcs7R0AAZub3RpZnlzcQB+AAzH2pqwdAAEY29tbXNxAH4ADDhebB90AA5fZGVmYXVsdFByZWZpeHNxAH4ADNIEYOJ0AAR3YWl0c3EAfgAM+DBM3XQADSRhc0luc3RhbmNlT2ZzcQB+AAyXqOaidAAJY29tbVN0YXJ0c3EAfgAMJ2zV8HQABmVxdWFsc3NxAH4ADDbnsgp0AAxhc0luc3RhbmNlT2ZzcQB+AAyRglqjdAAEYWtrYXNxAH4ADOrw6H10AAxzeW5jaHJvbml6ZWRzcQB+AAxN/k/HdAAVUmV2ZXJzZUhvbWVDb250cm9sbGVyc3EAfgAMJVL32XQADSRpc0luc3RhbmNlT2ZzcQB+AAx0nQVbdAANUmV2ZXJzZUFzc2V0c3NxAH4ADJ1UF0R0AAlub3RpZnlBbGxzcQB+AAxxtrCedAAMaXNJbnN0YW5jZU9mc3EAfgAM5Uu3a3QABGNoYXRzcQB+AAz2iHuHdAAGPGluaXQ+c3EAfgAM4+ejWXQAAj09c3EAfgAM06EqwnQACWNoYXRTdGFydHNxAH4ADNq3lH90AAVjbG9uZXNxAH4ADI9pbCl0AAh0b1N0cmluZ3NxAH4ADJR1C2J0AAIhPXNxAH4ADGni7fN0AAhnZXRDbGFzc3NxAH4ADPe6QWh0AAJuZXNxAH4ADLH8WTN0AAl2ZXJzaW9uZWRzcQB+AAy8/7RgdAACZXFzcQB+AAwxL9LXdAACIyNzcQB+AAzhYBpwdAAIZmluYWxpemVzcQB+AAwaFuSudAAFaW5kZXhzcQB+AAwnZjsIdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAsY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlSG9tZUNvbnRyb2xsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Aa3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBTTAAJaW5oZXJpdGVkcQB+AFNMAAdwYXJlbnRzcQB+AFN4cQB+AHBzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ab3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ab3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AiHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiXNxAH4AfHQAA0FueXNxAH4AgHNxAH4Ag3VxAH4AhgAAAAJzcQB+AIh0AAVzY2FsYXEAfgCPc3EAfgBQcQB+AF11cQB+AF4AAAAAc3EAfgBgAHQAJGNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUFzc2V0c3VxAH4AYwAAAABxAH4AZ3VxAH4AaQAAAABzcQB+AGtxAH4AcXNxAH4Aa3NxAH4Ac3NxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXEAfgB6AAAAAnNxAH4AfHEAfgB/c3EAfgCAc3EAfgCDdXEAfgCGAAAAA3NxAH4AiHEAfgCLc3EAfgCIcQB+AI1xAH4Aj3NxAH4AfHEAfgCRc3EAfgCAc3EAfgCDdXEAfgCGAAAAAnNxAH4AiHEAfgCWcQB+AI91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABZjb250cm9sbGVycy5qYXZhc2NyaXB0c3EAfgCzdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVeC5O2ydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARkU6XERyb3Bib3hcc2NhbGEgYm9va1xwbGF5IGNvZGVcMThcdGVzdF9ha2thXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTFHp4L3uW8nf5WX9AZz9e3LMlgcA==
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC/JhpcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGbAk6N0AAZub3RpZnlzcQB+AAw+AvUOdAAEY29tbXNxAH4ADOgK+Ud0AA5fZGVmYXVsdFByZWZpeHNxAH4ADCusESt0AAR3YWl0c3EAfgAMjK7H7XQADSRhc0luc3RhbmNlT2ZzcQB+AAzpMaaqdAAJY29tbVN0YXJ0c3EAfgAMF/2n8nQABmVxdWFsc3NxAH4ADNXysIV0AAxhc0luc3RhbmNlT2ZzcQB+AAzyTUVqdAAEYWtrYXNxAH4ADPe+Zgl0AAxzeW5jaHJvbml6ZWRzcQB+AAwrvv31dAAVUmV2ZXJzZUhvbWVDb250cm9sbGVyc3EAfgAMyLVFV3QADSRpc0luc3RhbmNlT2ZzcQB+AAxQhv4JdAANUmV2ZXJzZUFzc2V0c3NxAH4ADNbQX750AAlub3RpZnlBbGxzcQB+AAwuSRARdAAMaXNJbnN0YW5jZU9mc3EAfgAMYRSMBnQABGNoYXRzcQB+AAyJo3cwdAAGPGluaXQ+c3EAfgAMqH9BPXQAAj09c3EAfgAM8OslVXQACWNoYXRTdGFydHNxAH4ADOYGO210AAVjbG9uZXNxAH4ADNb7Gwp0AAh0b1N0cmluZ3NxAH4ADNH0D6N0AAIhPXNxAH4ADFOOMjV0AAhnZXRDbGFzc3NxAH4ADJ77w2R0AAJuZXNxAH4ADKe0cVB0AAl2ZXJzaW9uZWRzcQB+AAwW6eJEdAACZXFzcQB+AAznTUvldAACIyNzcQB+AAzYY4xmdAAIZmluYWxpemVzcQB+AAyHZxEFdAAFaW5kZXhzcQB+AAy8w76ldAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAhY29udHJvbGxlcnMuUmV2ZXJzZUhvbWVDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBwc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3NxAH4AUHEAfgBddXEAfgBeAAAAAHNxAH4AYAB0ABljb250cm9sbGVycy5SZXZlcnNlQXNzZXRzdXEAfgBjAAAAAHEAfgBndXEAfgBpAAAAAHNxAH4Aa3EAfgBxc3EAfgBrc3EAfgBzc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cQB+AHoAAAACc3EAfgB8cQB+AH9zcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIcQB+AItzcQB+AIhxAH4AjXEAfgCPc3EAfgB8cQB+AJFzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIcQB+AJZxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXguTtsnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEZFOlxEcm9wYm94XHNjYWxhIGJvb2tccGxheSBjb2RlXDE4XHRlc3RfYWtrYVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU+nRLH8nbESrZJ6nlGIQoh5Vipak=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDOvVJoAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDWEMsN0AAZub3RpZnlzcQB+AAwiIU/tdAAGQXNzZXRzc3EAfgAMbXrq1HQABHdhaXRzcQB+AAwfqLrQdAAGcm91dGVzc3EAfgAMVTZc4nQABmVxdWFsc3NxAH4ADNzwkR50ABFyb3V0ZXMkamF2YXNjcmlwdHNxAH4ADH5hOHh0AAlub3RpZnlBbGxzcQB+AAzRnyHkdAAGPGluaXQ+c3EAfgAMlc9t1nQADkhvbWVDb250cm9sbGVyc3EAfgAMVarO+HQACHRvU3RyaW5nc3EAfgAMIQt8cHQACGdldENsYXNzc3EAfgAMHufqNnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AL3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEmNvbnRyb2xsZXJzLnJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBIc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AC9MAAlpbmhlcml0ZWRxAH4AL0wAB3BhcmVudHNxAH4AL3hxAH4ATXNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cQB+ACoAAAAAc3EAfgBIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBMdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBMc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBldAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBmc3EAfgAscQB+ADlxAH4AO3EAfgA9cQB+AD5xAH4AQH5xAH4AQXQABk1vZHVsZXVxAH4ARQAAAABzcQB+AEhxAH4ATnNxAH4ASHNxAH4AUHNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cQB+ACoAAAAAc3EAfgBIdXEAfgBXAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXguTtsnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEZFOlxEcm9wYm94XHNjYWxhIGJvb2tccGxheSBjb2RlXDE4XHRlc3RfYWtrYVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0YlrLgphL2c1BU+iyNuw+7g1k7c=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDQXhyoAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE2B+bZ0AAZub3RpZnlzcQB+AAxlm95SdAAKYmFkUmVxdWVzdHNxAH4ADICYB9J0AAR3YWl0c3EAfgAMcvaVfXQADSRhc0luc3RhbmNlT2ZzcQB+AAxJNkt3dAAGcm91dGVzc3EAfgAMnnvHSXQADWNyZWF0ZUludm9rZXJzcQB+AAw6Cm0edAAGZXF1YWxzc3EAfgAMVMff73QABnByZWZpeHNxAH4ADO6xBt50AAxhc0luc3RhbmNlT2ZzcQB+AAwCT/NKdAANZG9jdW1lbnRhdGlvbnNxAH4ADMgBwOB0AAxzeW5jaHJvbml6ZWRzcQB+AAzaUbeFdAANJGlzSW5zdGFuY2VPZnNxAH4ADEOocK90AApoYW5kbGVyRm9yc3EAfgAM8U1QMnQACW5vdGlmeUFsbHNxAH4ADMhmhNR0AAxpc0luc3RhbmNlT2ZzcQB+AAxRHo33dAAGYXNKYXZhc3EAfgAMzktFqHQADGVycm9ySGFuZGxlcnNxAH4ADFGiKG90AAY8aW5pdD5zcQB+AAxa6Ge3dAACPT1zcQB+AAwx3cesdAAFY2xvbmVzcQB+AAzgRL58dAAGJGluaXQkc3EAfgAMFIsIyXQABlJvdXRlc3NxAH4ADLdI6/B0AAh0b1N0cmluZ3NxAH4ADMm/J8h0AAIhPXNxAH4ADMpR4yt0AAlmYWtlVmFsdWVzcQB+AAx0ov8YdAAIZ2V0Q2xhc3NzcQB+AAwyYEmkdAACbmVzcQB+AAwFcfEsdAAKd2l0aFByZWZpeHNxAH4ADB2WsK50AARjYWxsc3EAfgAM91S/fnQAAmVxc3EAfgAM91K9EHQAAiMjc3EAfgAMbQP1nXQACGZpbmFsaXplc3EAfgAMhbNRb3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AWXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADXJvdXRlci5Sb3V0ZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ABNqYXZheC5pbmplY3QuSW5qZWN0c3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AWUwACWluaGVyaXRlZHEAfgBZTAAHcGFyZW50c3EAfgBZeHEAfgB3c3EAfgBydXEAfgBUAAAAAHNxAH4AcnVxAH4AVAAAAABzcQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHZ0AA9HZW5lcmF0ZWRSb3V0ZXJzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABHBsYXlzcQB+AI90AARjb3Jlc3EAfgCPdAAHcm91dGluZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCQc3EAfgCDdAAGUm91dGVyc3EAfgCHc3EAfgCKdXEAfgCNAAAABHNxAH4Aj3QABHBsYXlzcQB+AI90AANhcGlzcQB+AI90AAdyb3V0aW5ncQB+AJhzcQB+AIN0AAZPYmplY3RzcQB+AIdzcQB+AIp1cQB+AI0AAAADc3EAfgCPdAAEamF2YXNxAH4Aj3QABGxhbmdxAH4AmHNxAH4Ag3QAA0FueXNxAH4Ah3NxAH4AinVxAH4AjQAAAAJzcQB+AI90AAVzY2FsYXEAfgCYdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcm91dGVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXguTtsnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEZFOlxEcm9wYm94XHNjYWxhIGJvb2tccGxheSBjb2RlXDE4XHRlc3RfYWtrYVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUlmJyWhO2GwJNSWbx3fH2NBnjuxA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDJe/0NAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN0jWmN0AAZub3RpZnlzcQB+AAw6mfPpdAAMYnlOYW1lUHJlZml4c3EAfgAMGqAuKnQABHdhaXRzcQB+AAwiihQedAANJGFzSW5zdGFuY2VPZnNxAH4ADGlC0gh0AAZlcXVhbHNzcQB+AAxzjiBXdAAGcHJlZml4c3EAfgAMoe4en3QADGFzSW5zdGFuY2VPZnNxAH4ADEnTTQt0AAxSb3V0ZXNQcmVmaXhzcQB+AAzBVSPudAAMc3luY2hyb25pemVkc3EAfgAM3PW0o3QADSRpc0luc3RhbmNlT2ZzcQB+AAy9vFOxdAAJbm90aWZ5QWxsc3EAfgAM/8rGMXQADGlzSW5zdGFuY2VPZnNxAH4ADNlt+DR0AAI9PXNxAH4ADMUzUst0AAVjbG9uZXNxAH4ADPuoe5N0AAh0b1N0cmluZ3NxAH4ADIy//RJ0AAIhPXNxAH4ADBVnD2d0AAhnZXRDbGFzc3NxAH4ADESQR+t0AAlzZXRQcmVmaXhzcQB+AAwOOE2vdAACbmVzcQB+AAwZ4Z1IdAACZXFzcQB+AAwadj83dAACIyNzcQB+AAwH3+Z4dAAIZmluYWxpemVzcQB+AAyCAJ56dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATcm91dGVyLlJvdXRlc1ByZWZpeHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcm91dGVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXguTtsnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEZFOlxEcm9wYm94XHNjYWxhIGJvb2tccGxheSBjb2RlXDE4XHRlc3RfYWtrYVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUy5qoxDUHk1z6ZyeoVR9FuAgpliA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAsn+3oAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFvCzu10AAZub3RpZnlzcQB+AAywfQNbdAAGZm9ybWF0c3EAfgAMwhzZ8nQABHdhaXRzcQB+AAyC4cSKdAANJGFzSW5zdGFuY2VPZnNxAH4ADFw/PbR0AAtjaGF0X1Njb3BlMHNxAH4ADPlOM6J0AAxwcm9kdWN0QXJpdHlzcQB+AAzBnAotdAAGZXF1YWxzc3EAfgAMtq4g9XQADGFzSW5zdGFuY2VPZnNxAH4ADMBe03N0AAFmc3EAfgAMpoyOZXQADHN5bmNocm9uaXplZHNxAH4ADH9jmAx0AAlfZGlzcGxheV9zcQB+AAyjyI2qdAANJGlzSW5zdGFuY2VPZnNxAH4ADDzpuNR0AANyZWZzcQB+AAwddydadAAIY2FuRXF1YWxzcQB+AAwZnGhgdAANcHJvZHVjdFByZWZpeHNxAH4ADLexWPx0AAlub3RpZnlBbGxzcQB+AAyQFd1FdAAMaXNJbnN0YW5jZU9mc3EAfgAMszLPUXQABGNoYXRzcQB+AAxNAbkDdAAGPGluaXQ+c3EAfgAMpOzbzHQABWFwcGx5c3EAfgAMHAlwqXQAAj09c3EAfgAMo+X2iXQABWNsb25lc3EAfgAM2K1m+nQABiRpbml0JHNxAH4ADKYAqSl0AARjb3B5c3EAfgAMoXbIt3QACHRvU3RyaW5nc3EAfgAMeMFvInQAAiE9c3EAfgAMDOXZwXQACGdldENsYXNzc3EAfgAMLn3BiHQADmNvcHkkZGVmYXVsdCQxc3EAfgAM+EOh93QABnJlbmRlcnNxAH4ADE693tF0AAJuZXNxAH4ADMf1STx0AAJlcXNxAH4ADJWx21t0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzpg/+7dAACIyNzcQB+AAxo74SodAAIZmluYWxpemVzcQB+AAw3Rym7dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzqlVvYdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWdmlld3MuaHRtbC5jaGF0X1Njb3BlMHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ad3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AHxzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ae3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGk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
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAlaDVfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOJRPBR0AAZub3RpZnlzcQB+AAxplymAdAAGZm9ybWF0c3EAfgAMQzaTaXQABGNvbW1zcQB+AAxYIBjfdAAEd2FpdHNxAH4ADNjFCVJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMmaIa+HQADHByb2R1Y3RBcml0eXNxAH4ADH0sRbJ0AAZlcXVhbHNzcQB+AAzdCZ1PdAAMYXNJbnN0YW5jZU9mc3EAfgAMup15HXQAAWZzcQB+AAzSTMsNdAALY29tbV9TY29wZTBzcQB+AAyOcu2AdAAMc3luY2hyb25pemVkc3EAfgAMo34VkXQACV9kaXNwbGF5X3NxAH4ADBVC0jt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMLyEJinQAA3JlZnNxAH4ADIagChp0AAhjYW5FcXVhbHNxAH4ADGTX9jV0AA1wcm9kdWN0UHJlZml4c3EAfgAMMbuoyXQACW5vdGlmeUFsbHNxAH4ADNulCQ10AAxpc0luc3RhbmNlT2ZzcQB+AAy5/0MPdAAGPGluaXQ+c3EAfgAMZqyQbHQABWFwcGx5c3EAfgAMOzRrrnQAAj09c3EAfgAMCRv603QABWNsb25lc3EAfgAMtGOSXXQABiRpbml0JHNxAH4ADL0AcQ90AARjb3B5c3EAfgAME+JSZXQACHRvU3RyaW5nc3EAfgAM9EGvIXQAAiE9c3EAfgAM/LOFw3QACGdldENsYXNzc3EAfgAMZFp1vnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMFXMRBnQABnJlbmRlcnNxAH4ADGniJyh0AAJuZXNxAH4ADJ97Wr50AAJlcXNxAH4ADIorr8d0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx9Y1VGdAACIyNzcQB+AAy+DrVudAAIZmluYWxpemVzcQB+AAxpuG+3dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxoc2izdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWdmlld3MuaHRtbC5jb21tX1Njb3BlMHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ad3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AHxzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ae3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGk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
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBR1nxaAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLS+QU10AAZub3RpZnlzcQB+AAxQf3PrdAAGZm9ybWF0c3EAfgAMVtIRoXQABHdhaXRzcQB+AAxKygp4dAANJGFzSW5zdGFuY2VPZnNxAH4ADCKh30h0AAxwcm9kdWN0QXJpdHlzcQB+AAx/zHL+dAAGZXF1YWxzc3EAfgAMUyrnj3QADGFzSW5zdGFuY2VPZnNxAH4ADIH5byh0AAFmc3EAfgAMkLniQXQADHN5bmNocm9uaXplZHNxAH4ADOmDAqp0AAlfZGlzcGxheV9zcQB+AAyY8Oy2dAANJGlzSW5zdGFuY2VPZnNxAH4ADCzIbWR0AANyZWZzcQB+AAyjSKeidAAIY2FuRXF1YWxzcQB+AAwFJLxxdAAMaW5kZXhfU2NvcGUwc3EAfgAMs6ty1nQADXByb2R1Y3RQcmVmaXhzcQB+AAxpq4t3dAAJbm90aWZ5QWxsc3EAfgAMu41roHQADGlzSW5zdGFuY2VPZnNxAH4ADI25paV0AAY8aW5pdD5zcQB+AAx7887JdAAFYXBwbHlzcQB+AAzXQQF9dAACPT1zcQB+AAyP2tpCdAAFY2xvbmVzcQB+AAx88H1UdAAGJGluaXQkc3EAfgAMd3Wo3HQABGNvcHlzcQB+AAxGC8r6dAAIdG9TdHJpbmdzcQB+AAx7LJQ/dAACIT1zcQB+AAyH6FFMdAAIZ2V0Q2xhc3NzcQB+AAyyDGwBdAAOY29weSRkZWZhdWx0JDFzcQB+AAzEC0yLdAAGcmVuZGVyc3EAfgAMqR8bnnQAAm5lc3EAfgAMkbhhl3QAAmVxc3EAfgAMTph8M3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJgRpOV0AAIjI3NxAH4ADFhiJDl0AAhmaW5hbGl6ZXNxAH4ADJfHikh0AAVpbmRleHNxAH4ADEfZJA50AA5wcm9kdWN0RWxlbWVudHNxAH4ADAA+wcJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABd2aWV3cy5odG1sLmluZGV4X1Njb3BlMHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ad3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AHxzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ae3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHN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
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBwU8//AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK7QIOp0AAZub3RpZnlzcQB+AAz4wsn4dAAGZm9ybWF0c3EAfgAMuAM/X3QABHdhaXRzcQB+AAwRusk1dAANJGFzSW5zdGFuY2VPZnNxAH4ADKwjYYZ0AAxwcm9kdWN0QXJpdHlzcQB+AAwrnx3QdAAGZXF1YWxzc3EAfgAMOmWTIHQADGFzSW5zdGFuY2VPZnNxAH4ADIqCIad0AAFmc3EAfgAMP7s1THQADHN5bmNocm9uaXplZHNxAH4ADDj2Kah0AAlfZGlzcGxheV9zcQB+AAwdRe37dAANJGlzSW5zdGFuY2VPZnNxAH4ADBPHuxV0AANyZWZzcQB+AAza0S78dAAIY2FuRXF1YWxzcQB+AAx+Bs6kdAAEbWFpbnNxAH4ADCP9qbt0AA1wcm9kdWN0UHJlZml4c3EAfgAMK+/Fe3QACW5vdGlmeUFsbHNxAH4ADA700bR0AAxpc0luc3RhbmNlT2ZzcQB+AAylgtkPdAAGPGluaXQ+c3EAfgAMFgOgbXQABWFwcGx5c3EAfgAMnoiwMHQAAj09c3EAfgAMwg1sxHQABWNsb25lc3EAfgAMAGPdLXQABiRpbml0JHNxAH4ADF0Vm6h0AAttYWluX1Njb3BlMHNxAH4ADAk3Qyl0AARjb3B5c3EAfgAM19d2x3QACHRvU3RyaW5nc3EAfgAMVNknK3QAAiE9c3EAfgAMNAVqaHQACGdldENsYXNzc3EAfgAMW2P+9nQADmNvcHkkZGVmYXVsdCQxc3EAfgAMJm/st3QABnJlbmRlcnNxAH4ADDcG9gF0AAJuZXNxAH4ADLi70cp0AAJlcXNxAH4ADBolWgt0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxFcDwddAACIyNzcQB+AAymSFEsdAAIZmluYWxpemVzcQB+AAxUd5OBdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwIAgkTdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWdmlld3MuaHRtbC5tYWluX1Njb3BlMHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ad3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AHxzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ae3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGk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
+external apis:
+0 items
+source infos:
+10 items
+E:\Dropbox\scala book\play code\18\test_akka\app\controllers\HomeController.scala -> 
+AAAAAQAAAQAAADoAOiAgZGVmIGNvbW0gPSBXZWJTb2NrZXQudXNpbmdbU3RyaW5nXSB7IGltcGxpY2l0IHJlcXVlc3QgPT4BAAAF7QEAAAAXAQAXICAgICAgICAgICAgICAgICAgICAgICABAFFFOlxEcm9wYm94XHNjYWxhIGJvb2tccGxheSBjb2RlXDE4XHRlc3RfYWtrYVxhcHBcY29udHJvbGxlcnNcSG9tZUNvbnRyb2xsZXIuc2NhbGEBAFFFOlxEcm9wYm94XHNjYWxhIGJvb2tccGxheSBjb2RlXDE4XHRlc3RfYWtrYVxhcHBcY29udHJvbGxlcnNcSG9tZUNvbnRyb2xsZXIuc2NhbGEAXG1ldGhvZCB1c2luZyBpbiBvYmplY3QgV2ViU29ja2V0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBhY2NlcHQgd2l0aCBhbiBBa2thIHN0cmVhbXMgZmxvdyBpbnN0ZWFkAQAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\controllers\routes.java -> 
+AAAAAAAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\Routes.scala -> 
+AAAAAAAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\chat.template.scala -> 
+AAAAAAAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\comm.template.scala -> 
+AAAAAAAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\index.template.scala -> 
+AAAAAAAAAAA=
+E:\Dropbox\scala book\play code\18\test_akka\target\scala-2.11\twirl\main\views\html\main.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV4LfWoJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkU6XERyb3Bib3hcc2NhbGEgYm9va1xwbGF5IGNvZGVcMThcdGVzdF9ha2thXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV4Lkd/p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkU6XERyb3Bib3hcc2NhbGEgYm9va1xwbGF5IGNvZGVcMThcdGVzdF9ha2thXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV4Lk7bJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkU6XERyb3Bib3hcc2NhbGEgYm9va1xwbGF5IGNvZGVcMThcdGVzdF9ha2thXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
