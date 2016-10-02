@@ -1,5 +1,4 @@
 @(joinForm : Form[Member])(implicit token: play.filters.csrf.CSRF.Token, message: Messages, request:RequestHeader)
-
 @import helper._
 
 @helper.form(routes.HomeController.save()) {
