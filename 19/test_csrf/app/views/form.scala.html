@@ -1,0 +1,17 @@
+@(joinForm : Form[Member])(implicit token: play.filters.csrf.CSRF.Token, message: Messages, request:RequestHeader)
+
+@import helper._
+
+@helper.form(routes.HomeController.save()) {
+@CSRF.formField
+@inputText(joinForm("mid"), '_label -> "회원번호")
+@inputText(joinForm("userid"), '_label -> "회원아이디")
+@inputPassword(joinForm("password"), '_label -> "비밀번호")
+<div class = "actions">
+<input type = "submit" value = "join!" class = "">
+</div>
+}
+
+<form method = "POST" action = "/items">
+<input type = "hidden" name = "token" value = "a1bc2d34"/>
+</form>
